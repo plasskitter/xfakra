@@ -1,0 +1,2 @@
+# xfakra
+Daily digest notes
